@@ -1,37 +1,37 @@
 'use strict'
 
-let FirstPerm = 20;
-let SecondPerm = 30;
+const first_perm = 20;
+const second_perm = 30;
 
 //додавання
-let PlusOne = FirstPerm + 20;
-let PlusTwo = SecondPerm + 30;
+const plus_one = first_perm + 20;
+const plus_two = second_perm + 30;
 
-console.log(PlusOne);
-console.log(PlusTwo);
+console.log(plus_one);
+console.log(plus_two);
 
 //віднімання
-let MinusOne = FirstPerm - 20;
-let MinusTwo = SecondPerm -30;
+const minus_one = first_perm - 20;
+const minus_two = second_perm -30;
 
-console.log(MinusOne);
-console.log(MinusTwo);
+console.log(minus_one);
+console.log(minus_two);
 
 //множення
-let MultiOne = FirstPerm * 2;
-let MultiTwo = SecondPerm * 2;
+const multi_one = first_perm * 2;
+const multi_two = second_perm * 2;
 
-console.log(MultiOne);
-console.log(MultiTwo);
+console.log(multi_one);
+console.log(multi_two);
 
 //ділення
-let DivOne = FirstPerm / 2;
-let DivTwo = SecondPerm / 3;
+const div_one = first_perm / 2;
+const div_two = second_perm / 3;
 
-console.log(DivOne);
-console.log(DivTwo);
+console.log(div_one);
+console.log(div_two);
 
 //зведення в ступінь
-let DegreeOne = FirstPerm ** 2;
+const degree_one = first_perm ** 2;
 
-console.log(DegreeOne);
+console.log(degree_one);
