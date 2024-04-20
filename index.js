@@ -1,7 +1,7 @@
 'use strict'
 
-let first_perm = 20;
-let second_perm = 30;
+const first_perm = 20;
+const second_perm = 30;
 
 //додавання
 const plus_one = first_perm + 20;
